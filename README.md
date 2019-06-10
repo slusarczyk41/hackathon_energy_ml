@@ -22,4 +22,4 @@ avaidable data.
 ##### Results
 
 141 RMSE for whole period
-[chart](results.png)
+![chart](results.png)
