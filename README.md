@@ -1,4 +1,4 @@
-#### The whole project was made together with [Agnieszka Kowalik] (https://github.com/agnkow)
+#### The whole project was made together with [Agnieszka Kowalik](https://github.com/agnkow)
 
 I decided to upload this notebook after I did quite a lot of changes after an event, since
 I do not like to leave anything unfinished and the results were worth it.
@@ -16,8 +16,9 @@ avaidable data.
 - lag values
 
 ##### Stack used
+- pandas for data cleaning
 - scikit-learn for features selection (based on p value)
-- tensorflow (sequential nn with RMSprop optimizer)
+- tensorflow (sequential NN with RMSprop optimizer)
 
 ##### Results
 
